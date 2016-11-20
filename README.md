@@ -1,6 +1,6 @@
 # Carbon Footprint
 
-My submission for the 2016 HackDuke Hackathon.
+My submission for the 2016 HackDuke Hackathon. [Link to video demo on YouTube.](https://youtu.be/Lxwq22KHuVY)
 
 ## Inspiration
 
