@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Carbon Footprint</string>
+    <string name="textView">Select an activity:</string>
+    <string name="button">Calculate</string>
+    <string name="textView4">%1$s</string>
+    <string name="textView3">%1$s</string>
+    <string name="empty"></string>
+    <string name="showResult">%1$d</string>
+    <string name="status">%1$s</string>
+
+    <string-array name="activities">
+        <item></item>
+        <item>Driving</item>
+        <item>Bus</item>
+        <item>Subway or train</item>
+        <item>Flight</item>
+        <item>Electricity use</item>
+        <item>Eating beef, pork, or lamb</item>
+        <item>Eating fruits or vegetables</item>
+    </string-array>
+</resources>
